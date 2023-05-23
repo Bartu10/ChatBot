@@ -4,8 +4,8 @@ const WebWhatsappProvider = require('@bot-whatsapp/provider/web-whatsapp')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 
 const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
-    .addAnswer(['hola tontita de cambridge'])
-    .addAnswer(['A ver cuando quedamos AJJAAJJAJAJA'])
+    .addAnswer(['holaaaaa'])
+    .addAnswer(['subnormal'])
 
 /**
  * Esta es la funcion importante es la que realmente inicia
